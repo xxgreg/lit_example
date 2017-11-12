@@ -2,7 +2,7 @@
 
 A lightweight browser based template renderer for Dart.
 
-An experimental Dart library build on [lit-html](https://github.com/PolymerLabs/lit-html).
+An experimental Dart library built on [lit-html](https://github.com/PolymerLabs/lit-html).
 
 lit-dart lets you write HTML templates with Dart template literals, or Dart function syntax and 
 efficiently render and re-render those templates to DOM. 
